@@ -1,3 +1,5 @@
+// al kaku no sabe como desirmeh que me ama[A]
+
 // Creamos una clase de tipo Usuario
 class Usuario {
     //Definimos Atributos, propiedades
